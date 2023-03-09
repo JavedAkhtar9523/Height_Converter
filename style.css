@@ -1,0 +1,44 @@
+/* body{
+    background-color: #101820FF;
+}
+#container{
+    border: 1px solid black;
+    height: 300px;
+    width: 350px;
+    margin: auto;
+    background-color: #F2AA4CFF;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+#child-container{
+    border: 1px solid black;
+    height: 80px;
+    width: 338px;
+    background-color: #101820FF;
+    color: white;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+
+#outputdiv1{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 140px;
+}
+#outputdiv2{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 140px;
+    
+}
+ #outputdiv2 div{
+    float: left;
+} 
